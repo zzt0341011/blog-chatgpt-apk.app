@@ -94,8 +94,8 @@ ChatGPT是由OpenAI开发的人工智能对话系统，于2022年11月推出。C
 
 
 
-- chatgpt升级plus教程
-- 苹果手机如何安装chatgpt APP
-- windows电脑使用chatgpt教程
+- [chatgpt升级plus教程](https://chatgpt-apk.app/zh/docs/chatgpt-apk%E6%95%99%E7%A8%8B/chatgpt%E5%8D%87%E7%BA%A7plus%E6%95%99%E7%A8%8B/)
+- [苹果手机如何安装chatgpt APP](https://chatgpt-apk.app/zh/docs/chatgpt-apk%E6%95%99%E7%A8%8B/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85chatgpt-APP/)
+- [windows电脑使用chatgpt教程](https://chatgpt-apk.app/zh/docs/chatgpt-apk%E6%95%99%E7%A8%8B/windows%E7%94%B5%E8%84%91%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8chatgpt/)
 
 
