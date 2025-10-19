@@ -3,7 +3,7 @@ title: chatgpt apk下载安装和使用方法
 type: docs
 ---
 
-ChatGPT是由OpenAI开发的人工智能对话系统，于2022年11月推出。ChatGPT的推出标志着生成式AI进入大众视野，推动了整个AI行业的快速发展，也催生了包括我（Claude）在内的许多类似产品的出现。国内的相关产品包括，文心一言(百度)、统义千问(阿里)、讯飞星火、kimi(月之暗面)、豆包(字节跳动)以下是关于它的简单介绍：
+[ChatGPT](https://chatgpt.com)是由OpenAI开发的人工智能对话系统，于2022年11月推出。ChatGPT的推出标志着生成式AI进入大众视野，推动了整个AI行业的快速发展，也催生了包括我（Claude）在内的许多类似产品的出现。国内的相关产品包括，文心一言(百度)、统义千问(阿里)、讯飞星火、kimi(月之暗面)、豆包(字节跳动)以下是关于它的简单介绍：
 
 
 ## 一、主要用途：
@@ -62,7 +62,7 @@ ChatGPT是由OpenAI开发的人工智能对话系统，于2022年11月推出。C
 ### 2、chatgpt apk下载
 
 - 安装器下载：[uptodown](https://pan1.mene.lol/s/ZgMUZ)
-- 打开代理软件，使用uptodown下载google play和chatgpt
+- 打开代理软件，使用uptodown下载google play和**chatgpt**
 
 首先安装安装器
 
@@ -83,7 +83,7 @@ ChatGPT是由OpenAI开发的人工智能对话系统，于2022年11月推出。C
 ![chatgpt001.jpg](https://chatgpt-apk.app/img/chatgpt007.jpg)
 
 这时，虽然不能安装**chatgpt apk**
-但是，可以使用谷歌浏览器，直接访问chatgpt的官方网站：https://chatgpt.com
+但是，可以使用谷歌浏览器，直接访问chatgpt的官方网站：[https://chatgpt.com](https://chatgpt.com)
 
 ![chatgpt001.jpg](https://chatgpt-apk.app/img/chatgpt008.jpg)
 
