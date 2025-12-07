@@ -3,7 +3,7 @@ title: ChatGPT APK Installation and Usage Guide
 type: docs
 ---
 
-[ChatGPT](https://chatgpt.com) is an AI conversational system developed by OpenAI, launched in November 2022. The release of ChatGPT marked the entry of generative AI into the public spotlight, driving the rapid growth of the entire AI industry and inspiring the emergence of many similar products, including myself (Claude). Domestic counterparts include Baidu’s **Ernie Bot**, Alibaba’s **Tongyi Qianwen**, iFlytek’s **Spark**, Moonshot’s **Kimi**, and ByteDance’s **Doubao**. Below is a brief introduction:
+[ChatGPT](https://chatgpt.com) is an AI dialogue system developed by OpenAI and launched in November 2022. The launch of ChatGPT marked the entry of generative AI into the public eye, driving the rapid development of the entire AI industry and spurring the emergence of many similar products, including Claude. Domestically, related products include Wenxin Yiyan (Baidu), Tongyi Qianwen (Alibaba), Xunfei Xinghuo, Kimi (Moonlight's Dark Side), and Doubao (ByteDance). Below is a brief introduction to ChatGPT.:
 
 ---
 
@@ -44,20 +44,19 @@ type: docs
 **The following proxy services are pay-as-you-go.**
 **Once purchased, the data does not expire until used up. Tutorials for setup are available on each website.**
 
-| Name                                                                     | Price | Data    | Nodes |
-| :----------------------------------------------------------------------- | :---- | :------ | :---- |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)             | ¥1    | 2 GB    | 48    |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                    | ¥4.5  | 10 GB   | 42    |
-| [Fast Express](https://快车.com?c=REZUOC)                                  | ¥7    | 20 GB   | 50    |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)        | ¥12   | 100 GB  | 53    |
-| [AwesomeNet](https://6.66jc.top/#/login?code=sT9kLfc6)                   | ¥13   | 200 GB  | 40    |
-| [Farmer Spring](https://www.nfsq.us/#/register?code=RaUmorb2)            | ¥15   | 200 GB  | 30    |
-| [Sky High](https://cpdd.one/?r=106143)                                   | ¥50   | 500 GB  | 60    |
-| [Mineral Water](https://a9.600mlt.cc/#/register?code=pSnvLvyA)           | ¥70   | 600 GB  | 44    |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)           | ¥55   | 600 GB  | 61    |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY)                 | ¥50   | 500 GB  | 90    |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                | ¥98   | 280 GB  | 140   |
-| [Feiniao (Flying Bird)](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | ¥40   | 1200 GB | 38    |
+| Name                                                                     | Price | Data   | Number of Nodes |
+| :----------------------------------------------------------------------- | :---- | :----- | :-------------- |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2)            | ¥15   | 200 GB | 30              |
+| [Lord of the Rings](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15   | 130 GB | 48              |
+| [Internet Express](https://wjkc66.vip?c=REZUOC)                          | ¥7    | 20 GB  | 54              |
+| [Top VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG)        | ¥12   | 200 GB | 43              |
+| [Flying Bird](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)           | ¥10   | 200 GB | 35              |
+| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)        | ¥12   | 100 GB | 40              |
+| [AwesomeVPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6)             | ¥13   | 200 GB | 41              |
+| [Super Saver](https://web1.bby011.com/#/register?code=8xTTMr2f)          | ¥34   | 666 GB | 40              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)           | ¥55   | 600 GB | 64              |
+| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)                  | ¥50   | 500 GB | 90              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                | ¥98   | 280 GB | 140             |
 
 * Register at any of the above sites, purchase a plan, then import the nodes.
 * The following demo uses **v2rayNG** on Android.

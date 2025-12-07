@@ -3,8 +3,7 @@ title: Установка и использование ChatGPT APK
 type: docs
 ---
 
-[ChatGPT](https://chatgpt.com) — это система искусственного интеллекта, разработанная компанией **OpenAI** и запущенная в ноябре 2022 года. Появление ChatGPT ознаменовало выход генеративного ИИ в массовое сознание, ускорило развитие всей индустрии и вдохновило на создание множества аналогичных продуктов, включая меня (Claude).
-Китайские аналоги включают **Ernie Bot (Baidu)**, **Tongyi Qianwen (Alibaba)**, **Spark (iFlytek)**, **Kimi (Moonshot)** и **Doubao (ByteDance)**. Ниже приведено краткое описание:
+[ChatGPT](https://chatgpt.com) — это система диалога на основе искусственного интеллекта, разработанная OpenAI и запущенная в ноябре 2022 года. Запуск ChatGPT ознаменовал выход генеративного ИИ на первый план, что привело к быстрому развитию всей индустрии ИИ и появлению множества аналогичных продуктов, включая Claude. На внутреннем рынке к аналогичным продуктам относятся Wenxin Yiyan (Baidu), Tongyi Qianwen (Alibaba), Xunfei Xinghuo, Kimi (Moonlight's Dark Side) и Doubao (ByteDance). Ниже представлено краткое введение в ChatGPT.:
 
 ---
 
@@ -46,20 +45,19 @@ type: docs
 **Купленные гигабайты не имеют срока действия — они действуют, пока не будут использованы.**
 Подробные инструкции доступны на сайте каждого сервиса.
 
-| Название                                                                 | Цена  | Трафик  | Узлы |
-| :----------------------------------------------------------------------- | :---- | :------ | :--- |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)             | 1 ¥   | 2 ГБ    | 48   |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                    | 4.5 ¥ | 10 ГБ   | 42   |
-| [Fast Express](https://快车.com?c=REZUOC)                                  | 7 ¥   | 20 ГБ   | 50   |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)        | 12 ¥  | 100 ГБ  | 53   |
-| [AwesomeNet](https://6.66jc.top/#/login?code=sT9kLfc6)                   | 13 ¥  | 200 ГБ  | 40   |
-| [Farmer Spring](https://www.nfsq.us/#/register?code=RaUmorb2)            | 15 ¥  | 200 ГБ  | 30   |
-| [Sky High](https://cpdd.one/?r=106143)                                   | 50 ¥  | 500 ГБ  | 60   |
-| [Mineral Water](https://a9.600mlt.cc/#/register?code=pSnvLvyA)           | 70 ¥  | 600 ГБ  | 44   |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)           | 55 ¥  | 600 ГБ  | 61   |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY)                 | 50 ¥  | 500 ГБ  | 90   |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                | 98 ¥  | 280 ГБ  | 140  |
-| [Feiniao (Flying Bird)](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 40 ¥  | 1200 ГБ | 38   |
+| Название                                                               | Цена | Трафик | Количество узлов |
+| :--------------------------------------------------------------------- | :--- | :----- | :--------------- |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2)          | ¥15  | 200 ГБ | 30               |
+| [Властелин колец](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15  | 130 ГБ | 48               |
+| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC)                       | ¥7   | 20 ГБ  | 54               |
+| [Топ VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG)      | ¥12  | 200 ГБ | 43               |
+| [Летающая птица](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)      | ¥10  | 200 ГБ | 35               |
+| [Один цент](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)     | ¥12  | 100 ГБ | 40               |
+| [AwesomeVPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6)           | ¥13  | 200 ГБ | 41               |
+| [Супервыгодный](https://web1.bby011.com/#/register?code=8xTTMr2f)      | ¥34  | 666 ГБ | 40               |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)         | ¥55  | 600 ГБ | 64               |
+| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)                | ¥50  | 500 ГБ | 90               |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)              | ¥98  | 280 ГБ | 140              |
 
 * Зарегистрируйтесь на любом из сайтов, купите тариф и импортируйте узлы.
 * Далее приведён пример для Android через **v2rayNG**.
