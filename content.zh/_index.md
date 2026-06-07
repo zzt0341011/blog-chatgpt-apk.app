@@ -40,17 +40,14 @@ type: docs
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [农夫山泉](https://www.nfsq.us/#/register?code=RaUmorb2) | 15元 | 200G | 30个 |
-| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15元 | 130G | 48个 |
+| [魔戒](https://1.jnk.ink/L4q20S) | 1元 | 1G | 30个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
-| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | 12元 | 200G | 43个 |
-| [飞鸟](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10元 | 200G | 35个 |
-| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
-| [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
-| [超实惠](https://cshjc.shop/register?code=GadIbTHc) | 34元 | 666G | 40个 |
-| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
-| [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
-| [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
+| [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
+| [飞兔](https://1.jnk.ink/bbXkiN) | 30元 | 100G | 80个 |
+| [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 45元   | 200G |40个|
+| [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
+| [自由猫](https://1.jnk.ink/haO8Dr) | 89元 | 200G | 71个 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | 99元 | 1000G | 82个 |
 
 - 任意注册以上机场，购买套餐以后，导入节点即可
 - 以安卓手机，v2rayNG为例，进行演示
