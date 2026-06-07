@@ -31,20 +31,16 @@
 * The following options are cost-effective and come with setup guides.
 * They charge **by data usage** (no time limit).
 
-| Name                                                           | Price | Data    | Servers |
-| :------------------------------------------------------------- | :---- | :------ | :------ |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)   | ¥1    | 2 GB    | 48      |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)          | ¥4.5  | 10 GB   | 42      |
-| [Internet Express](https://快车.com?c=REZUOC)                    | ¥7    | 20 GB   | 50      |
-| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | ¥12   | 100 GB  | 53      |
-| [Niubi](https://6.66jc.top/#/login?code=sT9kLfc6)              | ¥13   | 200 GB  | 40      |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2)  | ¥15   | 200 GB  | 30      |
-| [SkyHigh](https://cpdd.one/?r=106143)                          | ¥50   | 500 GB  | 60      |
-| [Mineral Water](https://a9.600mlt.cc/#/register?code=pSnvLvyA) | ¥70   | 600 GB  | 44      |
-| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f)  | ¥55   | 600 GB  | 61      |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)        | ¥50   | 500 GB  | 90      |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)      | ¥98   | 280 GB  | 140     |
-| [Feiniaoyun](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)  | ¥40   | 1200 GB | 38      |
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
 
 3. Use your purchased **U.S. Apple ID** to log in to the **App Store**, then download the **ChatGPT** app.
 
