@@ -45,19 +45,16 @@ type: docs
 **Купленные гигабайты не имеют срока действия — они действуют, пока не будут использованы.**
 Подробные инструкции доступны на сайте каждого сервиса.
 
-| Название                                                               | Цена | Трафик | Количество узлов |
-| :--------------------------------------------------------------------- | :--- | :----- | :--------------- |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2)          | ¥15  | 200 ГБ | 30               |
-| [Властелин колец](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15  | 130 ГБ | 48               |
-| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC)                       | ¥7   | 20 ГБ  | 54               |
-| [Топ VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG)      | ¥12  | 200 ГБ | 43               |
-| [Летающая птица](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)      | ¥10  | 200 ГБ | 35               |
-| [Один цент](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)     | ¥12  | 100 ГБ | 40               |
-| [AwesomeVPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6)           | ¥13  | 200 ГБ | 41               |
-| [Супервыгодный](https://web1.bby011.com/#/register?code=8xTTMr2f)      | ¥34  | 666 ГБ | 40               |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)         | ¥55  | 600 ГБ | 64               |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)                | ¥50  | 500 ГБ | 90               |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)              | ¥98  | 280 ГБ | 140              |
+| Название | Цена | Трафик | Узлы |
+| :--- | :--- | :--- | :--- |
+| [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
+| [Ванцзи Экспресс](https://wjkc66.vip?c=REZUOC) | 7 ¥ | 20 ГБ | 54 |
+| [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
+| [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
+| [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
+| [Баобэй Клауд](https://1.jnk.ink/xxPwfy) | 55 ¥ | 600 ГБ | 64 |
+| [Фридом Кэт](https://1.jnk.ink/haO8Dr) | 89 ¥ | 200 ГБ | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | 99 ¥ | 1000 ГБ | 82 |
 
 * Зарегистрируйтесь на любом из сайтов, купите тариф и импортируйте узлы.
 * Далее приведён пример для Android через **v2rayNG**.
