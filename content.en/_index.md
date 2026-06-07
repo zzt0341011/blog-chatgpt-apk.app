@@ -44,19 +44,16 @@ type: docs
 **The following proxy services are pay-as-you-go.**
 **Once purchased, the data does not expire until used up. Tutorials for setup are available on each website.**
 
-| Name                                                                     | Price | Data   | Number of Nodes |
-| :----------------------------------------------------------------------- | :---- | :----- | :-------------- |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2)            | ¥15   | 200 GB | 30              |
-| [Lord of the Rings](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15   | 130 GB | 48              |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                          | ¥7    | 20 GB  | 54              |
-| [Top VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG)        | ¥12   | 200 GB | 43              |
-| [Flying Bird](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)           | ¥10   | 200 GB | 35              |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)        | ¥12   | 100 GB | 40              |
-| [AwesomeVPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6)             | ¥13   | 200 GB | 41              |
-| [Super Saver](https://web1.bby011.com/#/register?code=8xTTMr2f)          | ¥34   | 666 GB | 40              |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)           | ¥55   | 600 GB | 64              |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)                  | ¥50   | 500 GB | 90              |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                | ¥98   | 280 GB | 140             |
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
 
 * Register at any of the above sites, purchase a plan, then import the nodes.
 * The following demo uses **v2rayNG** on Android.
