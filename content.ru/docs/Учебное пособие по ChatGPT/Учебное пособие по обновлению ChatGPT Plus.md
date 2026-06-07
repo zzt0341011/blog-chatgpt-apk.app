@@ -29,20 +29,16 @@
 * Ниже приведены несколько вариантов с хорошим соотношением цены и качества.
 * Эти сервисы оплачиваются по объёму трафика. После покупки трафика срок действия не ограничен — пока не закончится весь объём.
 
-| Название                                                                   | Цена     | Трафик | Кол-во узлов |
-| :------------------------------------------------------------------------- | :------- | :----- | :----------- |
-| [Мо Цзе (Mojie)](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)      | 1 юань   | 2G     | 48           |
-| [Пикачу (Pikachu)](https://pkhub.net/#/register?code=A6O9EIj0)             | 4.5 юаня | 10G    | 42           |
-| [Интернет-экспресс](https://快车.com?c=REZUOC)                               | 7 юаней  | 20G    | 50           |
-| [Один Фэнь](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)         | 12 юаней | 100G   | 53           |
-| [Niubi](https://6.66jc.top/#/login?code=sT9kLfc6)                          | 13 юаней | 200G   | 40           |
-| [Нунфу Шаньцюань](https://www.nfsq.us/#/register?code=RaUmorb2)            | 15 юаней | 200G   | 30           |
-| [В небо (SkyHigh)](https://cpdd.one/?r=106143)                             | 50 юаней | 500G   | 60           |
-| [Минеральная вода](https://a9.600mlt.cc/#/register?code=pSnvLvyA)          | 70 юаней | 600G   | 44           |
-| [Баобэй Юнь (Baobeiyun)](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 юаней | 600G   | 61           |
-| [Свободный кот (FreeCat)](https://us.freecat.cc/register?code=czdF7PXY)    | 50 юаней | 500G   | 90           |
-| [Най Юнь (Naiyun)](https://www.v2ny.me?path=register&code=05XjPGu5)        | 98 юаней | 280G   | 140          |
-| [Птица (Feiniao)](https://feiniaoyun.xyz/#/register?code=GpIqYOb5)         | 40 юаней | 1200G  | 38           |
+| Название | Цена | Трафик | Узлы |
+| :--- | :--- | :--- | :--- |
+| [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
+| [Ванцзи Экспресс](https://wjkc66.vip?c=REZUOC) | 7 ¥ | 20 ГБ | 54 |
+| [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
+| [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
+| [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
+| [Баобэй Клауд](https://1.jnk.ink/xxPwfy) | 55 ¥ | 600 ГБ | 64 |
+| [Фридом Кэт](https://1.jnk.ink/haO8Dr) | 89 ¥ | 200 ГБ | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | 99 ¥ | 1000 ГБ | 82 |
 
 3. Используя купленный американский Apple ID, войдите в App Store и скачайте приложение **ChatGPT**.
 
